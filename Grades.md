@@ -6,3 +6,5 @@ Student Name: Daniel Fiore
 |Mr.fjsf        | A++   | 100%   |
 |Mr.fjslfjn     | A+    | 95%    |
 |Mr.fjssajfb    | B+    | 88%    |
+
+THESE ARE GRADES OF DANIEL FIORE
